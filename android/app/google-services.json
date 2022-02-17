@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "550158827532",
+    "project_id": "mental-health-c708b",
+    "storage_bucket": "mental-health-c708b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550158827532:android:eba87b0a2c753d0b0fae29",
+        "android_client_info": {
+          "package_name": "com.newagecards.mentalhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550158827532-85r7virteo3kmk5t2joc01cfhsalcsmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN8iPANufBmEhqxl8fYUVqzdX8glFQXPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550158827532-85r7virteo3kmk5t2joc01cfhsalcsmi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550158827532-2c22joqeqsjlrh4ev39jl17bqtnkule2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.newagecards.mentalhealth",
+                "app_store_id": "1535679484"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
